@@ -32,8 +32,8 @@ blueprint -install euphoriatheme
 
 ## 📜 Credits
 
-- **Code & Guide:** [ITZ_YTANSH](https://github.com/AstroVoidLabsDev-Beta)  
-- **Theme Source:** HopingBoyz  
+- **Code & Guide:** [ITZ_YTANSH](https://www.youtube.com/@ITZ_YT_ANSH_OFFICIAL)  
+- **Theme Source:** [HopingBoyz].(https://www.youtube.com/@hopingboyz)  
 
 ---
 
