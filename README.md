@@ -32,7 +32,7 @@ blueprint -install euphoriatheme
 
 ## 📜 Credits
 
-- **Code & Guide:** [ITZ_YTANSH](https://github.com/ITZ_YTANSH)  
+- **Code & Guide:** [ITZ_YTANSH](https://github.com/AstroVoidLabsDev-Beta)  
 - **Theme Source:** HopingBoyz  
 
 ---
@@ -49,4 +49,5 @@ You can showcase the theme here by uploading your screenshots:
 ## 📌 Notes
 
 - Make sure you have **Blueprint** properly installed before running the commands.  
-- Always back up your Pterodactyl files before installing any themes.  
+- Always back up your Pterodactyl files before installing any themes.
+- Get Blueprint.zip Codes On Our Portal [Blueprint.zip_Codes](https://github.com/AstroVoidLabsDev-Beta/Blueprint.zip) 
