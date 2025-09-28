@@ -33,7 +33,7 @@ blueprint -install euphoriatheme
 ## 📜 Credits
 
 - **Code & Guide:** [ITZ_YTANSH](https://www.youtube.com/@ITZ_YT_ANSH_OFFICIAL)  
-- **Theme Source:** [HopingBoyz].(https://www.youtube.com/@hopingboyz)  
+- **Theme Source:** [HopingBoyz](https://www.youtube.com/@hopingboyz)  
 
 ---
 
