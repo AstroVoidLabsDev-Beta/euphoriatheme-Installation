@@ -43,7 +43,7 @@ You can showcase the theme here by uploading your screenshots:
 
 ![Euphoria Theme Preview](./<img width="1870" height="835" alt="image" src="https://github.com/user-attachments/assets/7d39b509-9e0c-4891-99e0-cc96e0891c01" />
 )  
-*(Replace `screenshot.png` with your actual image path)*
+*(BuiltByBit)*
 
 ---
 
